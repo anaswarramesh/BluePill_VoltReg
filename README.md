@@ -5,4 +5,20 @@ The circuit converts a 12 V DC input into regulated 9 V, 5 V, and 3.3 V outputs 
 
 
 
+**Schematics**
+
+<img width="1003" height="570" alt="Screenshot 2026-02-02 093850" src="https://github.com/user-attachments/assets/bf1a44d7-8bba-4d39-ac9c-684a88d4c887" />\
+
+
+\
+**PCB Design**
+
+
+
+
+<img width="1366" height="656" alt="Screenshot 2026-02-02 100922" src="https://github.com/user-attachments/assets/df5ac030-f840-4f74-a8b7-a03386a609de" />
+
+
+
+
 
